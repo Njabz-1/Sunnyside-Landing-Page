@@ -11,8 +11,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Njabz-1/Sunnyside-Landing-Page#acknowledgments)
 
 ### Built with
 
@@ -43,9 +40,9 @@ Users should be able to:
 
 ### What I learned
 
-Flexboxes and hod wo use divs as boxes
+Flexboxes and how to use divs as boxes
 
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/Njabz-1
+- Me :) (Njabz-1)
 
