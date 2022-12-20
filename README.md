@@ -25,11 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets\Screenshot.JPG)
+![Sunnyside Solution](assets/Screenshot.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Njabz-1/Sunnyside-Landing-Page#acknowledgments)
+- Live Site URL: https://njabz-1.github.io/Sunnyside-Landing-Page/
+
+## My process
 
 ### Built with
 
@@ -44,5 +46,5 @@ Flexboxes and how to use divs as boxes
 
 ## Author
 
-- Me :) (Njabz-1)
+- Njabz-1
 

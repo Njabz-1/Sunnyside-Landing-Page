@@ -32,6 +32,10 @@
     align-items: center;
 }
 
+.menu span:hover{
+    color: black;
+}
+
 .menu span {
     margin-right: 30px;
     cursor: pointer;
